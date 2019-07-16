@@ -1,0 +1,39 @@
+  TF_Progra2_Guevara_Tairaku.FrmBatalla.resources - Embedded, ContainedInManifestFile, 
+  TF_Progra2_Guevara_Tairaku.FrmJuego.resources - Embedded, ContainedInManifestFile, 
+  TF_Progra2_Guevara_Tairaku.FrmMenu.resources - Embedded, ContainedInManifestFile, 
+  TF_Progra2_Guevara_Tairaku.FrmOceano.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly TF_Progra2_Guevara_Tairaku, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class TF_Progra2_Guevara_Tairaku.FrmJuego: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    CControladora* control : Public
+Class TF_Progra2_Guevara_Tairaku.FrmOceano: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    CControladora* control : Public
+Class TF_Progra2_Guevara_Tairaku.FrmBatalla: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    CControladora* control : Public
+  Methods:
+    terminarJuego(): PrivateScope, Public, HideBySig
+Class TF_Progra2_Guevara_Tairaku.FrmMenu: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

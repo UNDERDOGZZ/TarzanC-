@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TF_Progra2_Guevara_Tairaku", "TF_Progra2_Guevara_Tairaku\TF_Progra2_Guevara_Tairaku.vcxproj", "{EB3960A2-152F-4A91-A49C-714E8CB1455D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3960A2-152F-4A91-A49C-714E8CB1455D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EB3960A2-152F-4A91-A49C-714E8CB1455D}.Debug|Win32.Build.0 = Debug|Win32
+		{EB3960A2-152F-4A91-A49C-714E8CB1455D}.Release|Win32.ActiveCfg = Release|Win32
+		{EB3960A2-152F-4A91-A49C-714E8CB1455D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
